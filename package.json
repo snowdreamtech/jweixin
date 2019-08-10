@@ -1,5 +1,5 @@
 {
-  "name": "jweixin",
+  "name": "@snowdreamtech/jweixin",
   "version": "1.0.0",
   "description": "微信wechat-js-sdk官方包",
   "main": "index.js",
