@@ -22,7 +22,7 @@
 
 ### 安装
 ```
-npm install jweixin --save
+npm install @snowdreamtech/jweixin --save
 ```
 
 ### 使用
