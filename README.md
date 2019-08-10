@@ -31,7 +31,7 @@ const wx = require('@snowdreamtech/jweixin');
 ```
 
 
-[npm-image]: https://img.shields.io/npm/snowdreamtech/jweixin.svg
+[npm-image]: https://img.shields.io/npm/@snowdreamtech/jweixin.svg
 [npm-url]: https://www.npmjs.com/package/@snowdreamtech/jweixin
-[downloads-image]: https://img.shields.io/npm/dw/snowdreamtech/jweixin.svg
+[downloads-image]: https://img.shields.io/npm/dw/@snowdreamtech/jweixin.svg
 [downloads-url]: https://www.npmjs.com/package/@snowdreamtech/jweixin
